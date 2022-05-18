@@ -16,7 +16,7 @@ nav {
   z-index: 1000;
 }
 nav h3 {
-  color: #FFFFFF;
+  color: #F0F0F0;
   font-size: 18px;
   margin-left: 20px;
   font-weight: 500;
@@ -36,7 +36,7 @@ nav a:visited {
   font-weight: 300;
 }
 nav a:hover {
-  color: #ACD6FF;
+  color: #ECF5FF;
   text-decoration: none;
 }
 nav ul {
