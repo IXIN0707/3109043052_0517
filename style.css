@@ -16,7 +16,7 @@ nav {
   z-index: 1000;
 }
 nav h3 {
-  color: #F0F0F0;
+  color: #FFFFFF;
   font-size: 18px;
   margin-left: 20px;
   font-weight: 500;
@@ -36,7 +36,7 @@ nav a:visited {
   font-weight: 300;
 }
 nav a:hover {
-  color: #ECF5FF;
+  color: #ACD6FF;
   text-decoration: none;
 }
 nav ul {
@@ -66,10 +66,10 @@ header a:link {
   padding-right: 40px;
   padding-bottom: 20px;
   padding-left: 40px;
-  background-color: #FAFAFA;
+  background-color: #6C6C6C;
   border-radius: 35px;
   font-size: 22px;
-  color: #7B0303;
+  color: #FFFFFF;
   text-decoration: none;
 }
 header a:visited {
@@ -88,10 +88,10 @@ header a:hover {
   padding-right: 40px;
   padding-bottom: 20px;
   padding-left: 40px;
-  background-color: #550E57;
+  background-color: #ECF5FF;
   border-radius: 35px;
   font-size: 22px;
-  color: #F4F4F4;
+  color: #005AB5;
   text-decoration: none;
 }
 article {
